@@ -1,0 +1,50 @@
+.controller.ds4 { background: url(https://imgur.com/AQz6Zq6.png); }
+
+.ds4 .trigger { background: url(https://imgur.com/k4qBd9m.png); }
+
+.ds4 .bumper { background: url(https://imgur.com/39xutTW.png) no-repeat; }
+
+.ds4 .button { background: url(https://imgur.com/OGsLKFp.png); }
+
+.ds4 .stick { background: url(https://imgur.com/RepOwOG.png); }
+
+.ds4 .face { background: url(https://imgur.com/nyIitxW.png); }
+
+.ds4 .abxy {
+    position: absolute;
+    width: 170px;
+    height: 171px;
+    top: 159px;
+    left: 567px;
+}
+
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(https://imgur.com/OGsLKFp.png);
+}
+
+.ds4 .button.pressed { background-position-y: 55px; }
+
+.ds4 .a {
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
+}
+
+.ds4 .b {
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.ds4 .x {
+    background-position: -113px 0;
+    top: 58px;
+}
+
+.ds4 .y {
+    background-position: 55px 0;
+    left: 58px;
+}
