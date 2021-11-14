@@ -2,10 +2,15 @@
 
 ### This repository includes the textures and custom css for use in OBS
 
-###### Golden DS4 
+###### Golden Black DS4
 
-[![Golden DS4](https://imgur.com/rbGICE4.png)]()
+[![Golden Black DS4](https://imgur.com/rbGICE4.png)]()
+
+###### Golden White DS4
+
+[![Golden White DS4](https://imgur.com/J6dzdHD.png)]()
 
 ###### Purple Xbox One
 
 [![Purple Xbox One](https://imgur.com/24VeY23.png)]()
+
