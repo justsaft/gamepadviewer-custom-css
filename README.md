@@ -1,6 +1,6 @@
 # My custom css for [`gamepadviewer.com`](https://gamepadviewer.com) 
 
-### This repository includes the textures and custom css for use in OBS
+### This repository includes the textures and custom css of my custom gamepadviewer overlays
 
 ###### Golden Black DS4
 
