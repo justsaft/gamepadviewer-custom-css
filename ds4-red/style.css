@@ -8,16 +8,24 @@
 
 .ds4 .stick { background: url(https://imgur.com/HALeUNm.png); }
 
-.ds4 .face { background: url(https://imgur.com/gSWARsb.png); }
-
 .ds4 .touchpad.pressed { background: url(https://imgur.com/bFv4b3J.png); }
+
+.ds4 .face {
+    background: url(https://imgur.com/gSWARsb.png);
+    /*position: absolute;
+    width: auto;
+    height: auto;
+    top: 158px;
+    left: 364px;
+    */
+}
 
 .ds4 .abxy {
     position: absolute;
     width: 170px;
     height: 171px;
-    top: 159px;
-    left: 567px;
+    top: 158px;
+    left: 564px;
 }
 
 .ds4 .button {
